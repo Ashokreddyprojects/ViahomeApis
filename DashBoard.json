@@ -1,8 +1,6 @@
 {
-        
-        
-     "App":
-[
+    "msg": "Found all projects Successfully",
+    "response": [
         {
             "_id": "59bb8b668550940bf4b5e6d8",
             "User_id": "59bb8a296685ac2124a62360",
@@ -13,7 +11,7 @@
             "City": "Nellore",
             "State": "Ap",
             "ZipCode": 524321,
-            "ProjectName": "Ashok Reddy",
+            "ProjectName": "lollypop",
             "OrganizationName": "PAR",
             "PropertyAddress": "Nellore",
             "MetroArea": "Hyd",
@@ -134,5 +132,4 @@
             "createdDate": "2017-09-15T08:13:33.456Z"
         }
     ]
-
 }
